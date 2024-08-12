@@ -191,11 +191,6 @@ export class WeatherService {
 
     // Setting Right Container TodaysHighlight Data Model Properties
     this.fillTodaysHighlight();
-
-    console.log(this.temperatureData);
-    console.log(this.weekData);
-    console.log(this.todayData);
-    console.log(this.todaysHighlight);
   }
 
   // Method to convert Temperature Celsius to Fahrenheit
