@@ -27,7 +27,7 @@ export class WeatherService {
   todaysHighlight: TodaysHighlight;
 
   // Variables to be used for API calls
-  cityName: string = 'Ranchi';
+  cityName: string = 'Pune';
   language: string = 'en-US';
   date: string = '20200622';
   units: string = 'm';
